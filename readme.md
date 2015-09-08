@@ -10,20 +10,7 @@
 ### Proper HTML is about nesting and document structure.
 
 ---
-&lt;html&gt;
-<div style="width:90%;border:1px solid grey;padding:3px;margin:20px">&lt;head&gt;
-<div style="width:90%;border:1px solid grey;padding:5px;margin:20px">&lt;title&gt;Page title&lt;/title&gt;
-</div>
-&lt;/head&gt;
-</div>
-<div style="width:90%;border:1px solid grey;padding:3px;margin:20px;background-color:#fff">&lt;body&gt;
-<div style="width:90%;border:1px solid grey;padding:5px;margin:20px">&lt;h1&gt;This is a heading&lt;/h1&gt;</div>
-<div style="width:90%;border:1px solid grey;padding:5px;margin:20px">&lt;p&gt;This is a paragraph.&lt;/p&gt;</div>
-<div style="width:90%;border:1px solid grey;padding:5px;margin:20px">&lt;p&gt;This is another paragraph.&lt;/p&gt;</div>
-&lt;/body&gt;
-</div>
-&lt;/html&gt;
-
+![](http://i.imgur.com/ycZnwsx.png)
 ---
 ``` 
 <html>
